@@ -2,7 +2,7 @@ package com.company;
 
 import java.util.Scanner;
 
-public class EX03C {
+public class QuestãoC {
     public static void EX03C(String[]arg) {
         Scanner a = new Scanner(System.in);
         int idade;
